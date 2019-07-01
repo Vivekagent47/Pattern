@@ -1,3 +1,11 @@
+/* I had divide this paatern into 4 parts and make this one by one so thats why I had make two loops and in these loops I had made two diffferent loops .....
+one external loop make upper half and second loop make the lower half of the pattern .
+
+first loop is also divided into two parts thats why there are two differnt loops in it 
+
+lower one is same as the upper.......
+*/
+
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
