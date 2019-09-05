@@ -21,3 +21,4 @@ In this programe we create this type of the pattern valid form 1 to 9.
   after that I saw that the upper part is similar to the lower part of the pattern.
   
   That it. Now the whole pattern is complete.
+  
